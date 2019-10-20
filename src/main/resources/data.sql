@@ -1,0 +1,12 @@
+insert into user values(1001, sysdate(),'Anu');
+insert into user values(1002, sysdate(),'Nikitha');
+insert into user values(1003, sysdate(),'Sneha');
+insert into user values(1004, sysdate(),'Medha');
+insert into post values(111,'My First Post',1001);
+insert into post values(112,'Second Post',1001);
+insert into post values(113,'Third Post',1001);
+insert into post values(114,'My First Post',1002);
+insert into post values(115,'My First Post',1002);
+insert into post values(116,'My First Post',1003);
+insert into post values(117,'My First Post',1004);
+insert into post values(118,'My First Post',1001);
